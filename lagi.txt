@@ -1,0 +1,7 @@
+total 8
+-rw-rw-r-- 1 devops devops   0 Feb 23 07:28 [0m[01;35mbanana.jpg[0m
+-rw-rw-r-- 1 devops devops   0 Feb 24 03:24 belajarLinux.txt
+-r-------- 1 devops devops   0 Feb 23 03:51 belajar.txt
+-rw-rw-r-- 1 devops devops 287 Feb 23 07:31 deni.txt
+-rw-rw-r-- 1 devops devops 341 Feb 24 03:20 kevin.txt
+-rw-rw-r-- 1 devops devops   0 Feb 24 03:24 lagi.txt
