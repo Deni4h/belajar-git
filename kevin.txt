@@ -1,7 +1,0 @@
-total 12
--rw-rw-r-- 1 devops devops   0 Feb 23 07:28 banana.jpg
--rw-rw-r-- 1 devops devops  68 Feb 24 03:17 belajarLinux.txt
--r-------- 1 devops devops   0 Feb 23 03:51 belajar.txt
--rw-rw-r-- 1 devops devops 287 Feb 23 07:31 deni.txt
--rw-rw-r-- 1 devops devops   0 Feb 24 03:20 kevin.txt
--rw-rw-r-- 1 devops devops  22 Feb 24 02:47 lagi.txt
